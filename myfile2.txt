@@ -1,3 +1,7 @@
 Just some changes
 
+<<<<<<< HEAD
 create issues #2
+=======
+create merge issue
+>>>>>>> qa
